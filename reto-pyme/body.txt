@@ -1,0 +1,17 @@
+{
+    "srlId": 4037,
+    "intIndex": 2,
+    "strNombre1": "TECNOLAMINAS S.A. D TEST.853",
+    "strNombre2": "E C#V#",
+    "strNombre3": "",
+    "strDireccion1": "CALLE DEL RIO",
+    "strDireccion2": "2",
+    "strDireccion3": "",
+    "strColonia": "INDUSTRIAL ALCE BLAN",
+    "strMunicipioDel": "NAUCALPAN",
+    "strCp": "53370",
+    "strEntreCalle1": "CALZADA DE LAS ARMAS",
+    "strEntreCalle2": "AVENIDA 16 DE SEPTIEMBRE",
+    "strEstado": "Estado de Mexico",
+    "strNombComp": "TECNOLAMINAS SA DE CV"
+}
